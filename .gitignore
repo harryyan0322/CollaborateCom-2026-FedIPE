@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/
+viz_data/
+data/proprecess/
+.DS_Store
